@@ -1,6 +1,6 @@
 # Facial-Detection in Python
 
-Similar concept with Depth-Sensor project just without the additional information
+Similar concept with [Depth-Sensor project](https://github.com/Omniphics/Depth-Sensor) just without the additional information
 of depth to look for faces within a distance.
 
 This is small-scale program to count the amount of user looking at the camera to
